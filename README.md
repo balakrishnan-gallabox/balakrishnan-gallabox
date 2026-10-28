@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Balakrishnan
-- 👀 I’m interested in knowing more about JS
-- 🌱 I’m currently learning Typescript
-- 💞️ I’m looking to collaborate on anything
+- 👋 Hi, I’m Balakrishnan — Product Manager at Gallabox
+- 🎙️ I own Voice as a channel and AI agent capabilities on Gallabox’s omnichannel AI sales platform
+- 🛠️ Started here as a software engineer (SWE → APM → PM) and still stay hands-on: internal tools, AI agent configs, prompts
+- 🤖 Currently exploring voice AI, LLM agents, and conversational sales automation
 - 📫 How to reach me - balakrishnanr@gallabox.com
-
-<!---
-balakrishnan-gallabox/balakrishnan-gallabox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
